@@ -124,7 +124,7 @@ It will run on something like `http://127.0.0.1:5500`
 ![Homepage](./screenshots/homepage.png)
 
 ### Events Page
-![Events Page](./screenshots/events-page.png)
+![Events Page](./screenshots/event-page.png)
 
 ### Feedback Form
 ![Feedback Form](./screenshots/feedback-form.png)
