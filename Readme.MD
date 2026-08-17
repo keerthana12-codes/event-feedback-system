@@ -118,8 +118,6 @@ It will run on something like `http://127.0.0.1:5500`
 > **Note:** Make sure MongoDB is running locally (or update the connection string in `server.js` to your MongoDB Atlas URI) before starting the backend.
 
 ---
-## Screenshots
-
 ### Homepage
 ![Homepage](./screenshots/homepage.png)
 
@@ -131,7 +129,6 @@ It will run on something like `http://127.0.0.1:5500`
 
 ### View Feedback Page
 ![View Feedback](./screenshots/view-feedback.png)
-
 
 ## API Endpoints
 
